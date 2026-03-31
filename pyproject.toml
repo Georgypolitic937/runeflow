@@ -1,0 +1,16 @@
+[project]
+name = "runeflow"
+version = "0.1.0"
+description = "AI that can control your computer using vision"
+authors = [{name="Your Name"}]
+dependencies = [
+  "opencv-python",
+  "pyautogui",
+  "pillow",
+  "numpy",
+  "pynput",
+  "requests"
+]
+
+[project.scripts]
+runeflow = "runeflow.cli:main"
