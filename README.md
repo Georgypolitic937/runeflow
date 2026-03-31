@@ -10,6 +10,11 @@ RuneFlow is an open-source AI that can control your computer.
 No APIs required.
 
 
+https://github.com/user-attachments/assets/f8352cb0-5d64-4991-af24-921499aa710e
+
+
+
+
 It records clicks and keystrokes, captures small anchor images around clicks, and replays workflows by locating those anchors on-screen instead of trusting raw coordinates. When enabled, a vision-language model can propose click locations as a fallback when deterministic matching fails.
 
 ## What this repo includes
