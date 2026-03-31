@@ -1,6 +1,14 @@
 # RuneFlow
 
-RuneFlow is an open-source visual automation core for AI agents.
+RuneFlow is an open-source AI that can control your computer.
+
+• Click buttons  
+• Type text  
+• Read screens  
+• Automate any software  
+
+No APIs required.
+
 
 It records clicks and keystrokes, captures small anchor images around clicks, and replays workflows by locating those anchors on-screen instead of trusting raw coordinates. When enabled, a vision-language model can propose click locations as a fallback when deterministic matching fails.
 
